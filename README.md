@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FricoSimon
-- 👀 I’m interested in Programming, 3D Design, Visual Design, and Video Editing
-- 🌱 I’m currently learning Artificial Intelligence and Python
-- 💞️ I’m looking to collaborate on anything that interests me
+- 👋 Hi, I’m @FricoSimon from Indonesia
+- 👀 I’m interested in Programming (WEB Dev), Cloud, Blockchain, and many more!
+- 🌱 I’m currently learning at Google Bangkit 2023 (Cloud Computing)
+- 💞️ I’m looking for friends who will work together with me in projects
 - 📫 How to reach me you can contact my email ( simonfriko@gmail.com ) Feel free to contact me!
 
 <!---

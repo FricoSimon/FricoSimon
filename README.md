@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FricoSimon from Indonesia
-- 👀 I’m interested in Programming (WEB Dev), Cloud, Blockchain, and many more!
+- 👋 Hi, I’m @FricoSimon from Bandung, Indonesia
+- 👀 I’m interested in Programming (Backend), Cloud, Blockchain, and many more!
 - 🌱 I’m currently learning at Google Bangkit 2023 (Cloud Computing)
 - 💞️ I’m looking for friends who will work together with me in projects
 - 📫 How to reach me you can contact my email ( simonfriko@gmail.com ) Feel free to contact me!

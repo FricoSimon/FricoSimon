@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @FricoSimon from Bandung, Indonesia<br>👀 I’m interested in Backend Engineering (Node.js), Cloud Computing (GCP), Tech Consulting, DevOps Engineering and Technical Support <br>🌱 I graduated from Google Bangkit (Cloud Computing) and earned my first certification as an Associate Cloud Engineer from Google Cloud <br>💞️ I’m looking for internship/part-time/contract/full-time opportunity at tech field and willing to relocate if needed. WFH is also okay but I prefer WFO <br>📫 How to reach me you can contact my email ( simonfriko@gmail.com ) Feel free to contact me!
+👋 Hi, I’m @FricoSimon from Indonesia<br>👀 I’m interested in Backend, Cloud, AI, Blockchain, DevOps and Technical Support <br>🌱 I haven't graduated (yet)<br>💞️ I’m looking for full-time opportunity at tech field and willing to relocate if needed. WFH / WFO is okay for me<br>📫 How to reach me you can contact my email ( simonfriko@gmail.com ) Feel free to contact me!
 
 ### Visitors
 <div align="left">
